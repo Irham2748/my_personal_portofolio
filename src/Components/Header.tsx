@@ -1,6 +1,6 @@
-import React from "react";
 
-function Header() {
+
+export default function Header() {
   const menu = [
     {
       id: 1,
@@ -51,4 +51,3 @@ function Header() {
   );
 }
 
-export default Header;
